@@ -1,0 +1,23 @@
+<style>
+/*공통 스타일*/
+...
+
+/*모바일 767px 이하 스타일*/
+...
+
+/*태블릿 768px 이상 스타일*/
+@media screen and (min-width:768px){
+...
+}
+
+/*pc 1024px 이상 스타일*/
+@media screen and (min-width:1024px){
+...
+}
+
+
+</style>
+
+
+- 사용할 글꼴 
+'https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap'

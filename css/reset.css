@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    color: #222;
+    line-height: 1.5;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+img,
+input,
+textarea,
+button {
+    vertical-align: middle;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    position: absolute;
+    left: -9999px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+}
+
+strong {
+    display: block;
+}
+
+address {
+    font-style: normal;
+}
+
+header, nav, main, article, aside,
+section, footer {
+    display: block;
+}
